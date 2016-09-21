@@ -4,7 +4,7 @@
   "description": "A demo app featuring Webpack, Marionette and PureCSS",
   "author": "Emmanuel Antico",
   "license": "Apache-2.0",
-  "repository": "https://github.com/emaphp/webpack-helloworld.git",
+  "repository": "https://github.com/yytang2012/webpack-helloworld.git",
   "dependencies": {
     "backbone": "1.2.3",
     "backbone.marionette": "^2.4.4",
@@ -20,5 +20,8 @@
     "underscore": "^1.8.3",
     "underscore-template-loader": "^0.7.0",
     "url-loader": "^0.5.7"
+  },
+  "devDependencies": {
+    "less": "^2.7.1"
   }
 }
